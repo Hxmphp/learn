@@ -9,3 +9,8 @@
 	}
 	
 	nowtime();
+	
+	
+	function add(){
+		echo "说";
+	}
