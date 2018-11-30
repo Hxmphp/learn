@@ -7,3 +7,5 @@
 		echo $time;
 		echo $date;
 	}
+	
+	
